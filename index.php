@@ -6,7 +6,7 @@ $q=htmlspecialchars($_POST["q"]);
 if (empty($q)) {
 }else{
   if ($t==""){
-    echo'<script>window.location.href="https://cn.bing.com/search?q='.$q.'";</script>';
+    echo'<script>window.location.href="https://www.bing.com/search?q='.$q.'";</script>';
   }else{
     //默认谷歌
     echo'<script>window.location.href="https://www.google.com/search?q='.$q.'";</script>';
@@ -106,7 +106,7 @@ if (empty($q)) {
                 </ul-->
             </div>
         </div>
-        <div class="foot">© 2016-<?php echo date("Y") ?> by <a href="https://www.aboy.ga/">LHH</a> . All rights reserved.</div>
+        <div class="foot">© 2026-<?php echo date("Y") ?> by <a href="https://www.bing.com/">aoiyama</a> . All rights reserved.</div>
     </div>
 <!--
 作者:D.Young
