@@ -106,7 +106,7 @@ if (empty($q)) {
                 </ul-->
             </div>
         </div>
-        <div class="foot">© 2026-<?php echo date("Y") ?> by <a href="https://www.bing.com/">aoiyama</a> . All rights reserved.</div>
+        <div class="foot">© 2016-<?php echo date("Y") ?> by <a href="https://www.bing.com/">aoiyama</a> . All rights reserved.</div>
     </div>
 <!--
 作者:D.Young
